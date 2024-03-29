@@ -1,0 +1,78 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #FFFFFF;
+    text-align: center;
+    margin: 0;
+}
+
+#hero {
+    width: 626px;
+    margin: 64px auto;  
+}
+
+#hero img {
+    margin-bottom: 32px;    
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 23px;
+    margin-bottom: 16px;    
+}
+
+span {
+    color: #EE24FF;
+    font-weight: bold;
+}
+
+.flutuar {
+    color: #828282; 
+}
+
+#precos_arrasadores,
+#pacotes_completos {
+    color: #3F3D56;
+}
+
+p {
+    color: #828282;
+    font-size: 15px;
+    line-height: 22px;
+    margin-bottom: 64px; 
+}
+
+a {
+    color: #3F3D56;
+}
+
+
+#line {
+    width: 391px;
+    height: 0px;
+    margin: 0 auto 8px;
+    border: 1px solid #ECEFF2;
+}
+
+#footer {
+    text-align: center;
+    width: 100%;
+}
+
+#footer img {
+    margin-left: auto; /* Centraliza a imagem horizontalmente */
+    margin-right: auto;
+    margin-top: 40.83px; 
+    display: block; /* Para centralizar a imagem */
+}
+
+#footer a {
+    text-decoration: none;
+    margin-right: 40.83px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#wave {
+    width: 100%;   
+    
+}
